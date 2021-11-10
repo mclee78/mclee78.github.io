@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>心得 on 中年婦女的遊樂場</title>
-    <link>https://mclee78.github.io/categories/%E5%BF%83%E5%BE%97/</link>
-    <description>Recent content in 心得 on 中年婦女的遊樂場</description>
+    <title>評論 on 中年婦女的遊樂場</title>
+    <link>https://mclee78.github.io/tags/%E8%A9%95%E8%AB%96/</link>
+    <description>Recent content in 評論 on 中年婦女的遊樂場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 09 Nov 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://mclee78.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>中年婦女的第一篇文章</title>
-      <link>https://mclee78.github.io/blog/test/</link>
-      <pubDate>Tue, 09 Nov 2021 10:07:47 +0600</pubDate>
-      
-      <guid>https://mclee78.github.io/blog/test/</guid>
-      <description>Hello World
-我是中年婦女
-一級標題 二級標題 六級標題 我是中年婦女
- 中年婦女  哈哈哈  啦啦啦     啦啦啦   哈哈哈  哈   噠噠噠   hello world</description>
-    </item>
-    
+    <lastBuildDate>Mon, 08 Nov 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://mclee78.github.io/tags/%E8%A9%95%E8%AB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>魷魚遊戲</title>
       <link>https://mclee78.github.io/blog/squid-game/</link>
